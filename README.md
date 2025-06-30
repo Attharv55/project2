@@ -1,3 +1,7 @@
 # New Project
 
-this project was created by the local system
+This project was created by the local system.
+
+# Creator
+
+This is created by Atharv Salve.
